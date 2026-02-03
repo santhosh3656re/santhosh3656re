@@ -2,6 +2,31 @@
 <h3 align="center">I am an Artificial Intelligence student with strong programming skills in Java and Python. I have a solid foundation in Full Stack Development, including both frontend and backend technologies. I enjoy building scalable applications, solving real-world problems, and continuously learning new tools and frameworks in AI and software development.</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
 
+## 🏋️ Featured Project: Gym Management System
+
+A comprehensive Python-based gym management system showcasing:
+- **Member Management** - Complete member registration and profile management
+- **Membership Plans** - Three tiers (Basic, Premium, VIP) with flexible billing
+- **Attendance Tracking** - Automated check-in/check-out with session tracking
+- **Payment Processing** - Billing automation and revenue reporting
+- **Analytics Dashboard** - Real-time insights and reporting
+
+### Quick Start
+```bash
+# Run the demo
+python3 example_usage.py
+
+# Run the interactive CLI
+python3 gym_cli.py
+
+# Run tests
+python3 -m unittest test_gym_system.py
+```
+
+📖 [Full Documentation](GYM_SYSTEM_DOCS.md) | 🚀 [Quick Start Guide](QUICKSTART.md)
+
+---
+
 - 🔭 I’m currently working on [One Dot Communication]
 
 - 🌱 I’m currently learning **React js,cloud computing**
