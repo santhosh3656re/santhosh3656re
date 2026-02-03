@@ -1,0 +1,9 @@
+# Gym Management System - Requirements
+# This system uses only Python standard library
+# No external dependencies required
+
+# Python version required
+# python>=3.7
+
+# For development and testing (optional)
+# unittest (included in Python standard library)
