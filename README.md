@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Santhosh S</h1>
 <h3 align="center">I am an Artificial Intelligence student with strong programming skills in Java and Python. I have a solid foundation in Full Stack Development, including both frontend and backend technologies. I enjoy building scalable applications, solving real-world problems, and continuously learning new tools and frameworks in AI and software development.</h3>
+
+<p align="center">
+  <strong>🚀 Build faster with Codex</strong><br>
+  Try with Free and Go, or enjoy 2x rate limits on all other plans for a limited time.<br>
+  <a href="https://github.com/features/copilot">Try in your IDE</a> | <a href="https://github.com/github-copilot/signup">Join the Codex app waitlist</a>
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif">
 
 - 🔭 I’m currently working on [One Dot Communication]
