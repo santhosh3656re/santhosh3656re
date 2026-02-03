@@ -5,6 +5,7 @@ Unit tests for the Gym Management System
 import unittest
 import os
 import shutil
+import time
 from datetime import datetime, timedelta
 
 from gym_management.gym_system import GymManagementSystem
@@ -123,8 +124,6 @@ class TestGymManagementSystem(unittest.TestCase):
     
     def test_check_out(self):
         """Test member check-out"""
-        import time
-        
         member = self.gym.register_member(
             name="Test User",
             email="test@example.com",

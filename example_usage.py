@@ -4,6 +4,7 @@ Example usage of the Gym Management System
 Demonstrates all major features
 """
 
+import time
 from datetime import datetime, timedelta
 from gym_management.gym_system import GymManagementSystem
 from gym_management.models import MembershipType
@@ -100,7 +101,6 @@ def main():
     print(f"✓ {member2.name} checked in at {attendance2.check_in_time.strftime('%H:%M:%S')}")
     
     # Simulate some time passing and check out
-    import time
     time.sleep(2)
     
     checkout1 = gym.check_out(member1.member_id)

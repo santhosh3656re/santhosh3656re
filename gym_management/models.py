@@ -69,6 +69,8 @@ class Membership:
         self.start_date = start_date
         self.duration_months = duration_months
         self.monthly_fee = monthly_fee
+        # Using 30-day approximation for simplicity (avoids external dependencies)
+        # For production use, consider using dateutil.relativedelta for exact month calculation
         self.end_date = start_date + timedelta(days=duration_months * 30)
         self.is_active = True
     
